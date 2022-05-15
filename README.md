@@ -63,7 +63,7 @@
 
 
 
-#### 🤝🏻 &nbsp;Connect with Me
+#### 🤝🏻 &nbsp;Contact Me
 <p align="center">
 <a href="https://www.instagram.com/mohammadmokhtari8/">
 <img src="https://img.shields.io/badge/-@mohammadmokhtari8-E4405F?style=flat&logo=Instagram&logoColor=white"/>
