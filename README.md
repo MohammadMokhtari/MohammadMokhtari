@@ -52,7 +52,7 @@
     <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" height="200"/>
 </div>
 
-### ⚙️ &nbsp;GitHub Analytics
+#### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/MohammadMokhtari">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MohammadMokhtari&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -63,7 +63,7 @@
 
 
 
-### 🤝🏻 &nbsp;Connect with Me
+#### 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.instagram.com/mohammadmokhtari8/">
 <img src="https://img.shields.io/badge/-@mohammadmokhtari8-E4405F?style=flat&logo=Instagram&logoColor=white"/>
