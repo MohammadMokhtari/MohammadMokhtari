@@ -49,7 +49,7 @@
 
 
 <div align="center">
-    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="250" height="250"/>
+    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" height="200"/>
 </div>
 
 <p align="center">
