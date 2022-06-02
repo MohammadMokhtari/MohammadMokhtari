@@ -1,7 +1,7 @@
 
 <!-- Intro -->
 
-<h1 align="center">Hi there, I'm Mohammad Mokhtari <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Mohammad Mokhtari 👋</h1>
  <p> 🌱
   I'm Mohammad , Web Developer, with proficiency especially on the front-end, but having some experience on developing back-end . <br> I really enjoy learning languages and   frameworks like JavaScript, TypeScript, Angular ,C# and Asp Net .
  </p>
