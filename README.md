@@ -27,10 +27,14 @@
 <p align="Center"><strong>Professional skills</strong></p>
 </p>  
 <p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40"/>
+<img src="https://blog.ninja-squad.com/assets/images/angular_gradient.png" alt="angular" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"  />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
 <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"/>
+ <br>
+ <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="36" height="36"/>
+ <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="rxjs" width="36" height="36"/>
+ 
 </div>
 
 
