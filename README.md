@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there, I'm Mohammad Mokhtari 👋</h1>
  <p> 🌱
-  I'm Mohammad , Web Developer, with proficiency especially on the front-end, but having some experience on developing back-end . <br> I really enjoy learning languages and   frameworks like JavaScript, TypeScript, Angular ,C# and Asp Net .
+  I'm Mohammad , Web Developer, with proficiency especially on the front-end, but having some experience on developing back-end . <br> I really enjoy learning languages and   frameworks like JavaScript, TypeScript, Angular.
  </p>
 
 <!-- Socials --> 
@@ -33,7 +33,7 @@
 <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"/>
  <br>
  <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="36" height="36"/>
- <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="rxjs" width="36" height="36"/>
+ <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="cyprees" width="36" height="36"/>
  
 </div>
 
@@ -44,7 +44,7 @@
 
 <ul dir="auto">
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">💡</g-emoji> I like to explore new technologies and develop software</li>
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about: JavaScript ,TypeScript ,Angular ,C# ,Asp.net ,clean-architecture </li>
+<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about: JavaScript ,TypeScript ,Angular ,clean-architecture </li>
 <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on: Front-End projects
 </li>
 </ul>
