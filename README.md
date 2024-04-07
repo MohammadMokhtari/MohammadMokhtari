@@ -16,7 +16,7 @@
 
 
 <a href="https://discordapp.com/users/1208277983178133604" target="blank">
-<img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/505/small/discord-logo-discord-icon-transparent-free-png.png" width="36" height="36"/>
+<img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/505/small/discord-logo-discord-icon-transparent-free-png.png" width="46" height="46"/>
 </a>
 
 <a href="https://twitter.com/mohammad_mkhDev" target="blank">
