@@ -8,19 +8,19 @@
 
 <!-- Socials --> 
 
-<div align="center" style="margin:80px">
+<div align="center">
   
 <a href="https://www.linkedin.com/in/mohammad-mokhtari-8a668122b/" target="blank">
-  <img src="https://www.iconsdb.com/icons/preview/white/linkedin-xxl.png" width="32" height="32"/>
+  <img src="https://www.vectorico.com/wp-content/uploads/2018/02/LinkedIn-Icon-Squircle-Dark-560x560.png" width="36" height="36"/>
   </a>
 
 
 <a href="https://discordapp.com/users/1208277983178133604" target="blank">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width="32" height="32"/>
+<img src="https://static.vecteezy.com/system/resources/previews/023/986/667/large_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" width="36" height="36"/>
 </a>
 
 <a href="https://twitter.com/mohammad_mkhDev" target="blank">
-<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" width="32" height="32"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-logo-icon.png" width="36" height="36"/>
 </a>
 
 </div>
