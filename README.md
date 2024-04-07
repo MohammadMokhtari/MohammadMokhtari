@@ -8,18 +8,18 @@
 
 <!-- Socials --> 
 
-<p align="center">
+<div align="center" style="margin:80px">
   
 <a href="https://www.linkedin.com/in/mohammad-mokhtari-8a668122b/" target="blank">
-  <img src="https://camo.githubusercontent.com/162001cc0747178f47ced6e40de0cd16e375beb9b5fbca4ea3d520ecca78cd85/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6c696e6b6564696e2e706e67" style="height: 3rem"/>
+  <img src="https://www.iconsdb.com/icons/preview/white/linkedin-xxl.png" width="32" height="32"/>
   </a>
 
 
 <a href="https://twitter.com/mohammad_mkhDev" target="blank">
-<img src="https://camo.githubusercontent.com/935991993635cd0e6398dd4368b13949a1bac7853b6361bd8d44bf95641f986a/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f747769747465722e706e67" style="height: 3rem"/>
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" width="32" height="32"/>
 </a>
 
-</p>
+</div>
 
 <!-- Tech Stack --> 
 
@@ -30,7 +30,7 @@
 <img src="https://blog.ninja-squad.com/assets/images/angular_gradient.png" alt="angular" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"  />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/>
  <br>
  <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="36" height="36"/>
  <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="cyprees" width="36" height="36"/>
