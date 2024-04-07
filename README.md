@@ -15,6 +15,10 @@
   </a>
 
 
+<a href="https://discordapp.com/users/1208277983178133604" target="blank">
+<img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" width="32" height="32"/>
+</a>
+
 <a href="https://twitter.com/mohammad_mkhDev" target="blank">
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-white-icon.png" width="32" height="32"/>
 </a>
