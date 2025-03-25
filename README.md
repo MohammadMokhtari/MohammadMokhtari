@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there, I'm Mohammad Mokhtari 👋</h1>
  <p> 🌱
-I’m Mohammad, a Web Developer specializing in front-end development with expertise in Angular, TypeScript, and JavaScript. I have experience in building scalable, high-performance web applications and a solid understanding of back-end development. Passionate about crafting seamless user experiences, optimizing performance, and working with modern frameworks. I enjoy staying up to date with new technologies and continuously improving my skills.
+I'm Mohammad, a front-end web developer specializing in Angular, TypeScript, and JavaScript. I have experience building scalable, high-performance web applications, with a solid understanding of back-end development. I'm passionate about creating smooth user experiences, optimizing performance, and staying current with modern technologies.
  </p>
 
 <!-- Socials --> 
