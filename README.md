@@ -60,7 +60,7 @@ I'm Mohammad, a front-end web developer specializing in Angular, TypeScript, and
 <a href="https://www.instagram.com/mohammadmokhtari8/">
 <img src="https://img.shields.io/badge/-@mohammadmokhtari8-E4405F?style=flat&logo=Instagram&logoColor=white"/>
 </a>
-<a href="mailto:dev.mohammadmokhtari@outlook.com"><img src="https://img.shields.io/badge/-dev.mohammadmokhtari@outlook.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
+<a href="mailto:dev.mohammadmokhtari@gmail.com"><img src="https://img.shields.io/badge/-dev.mohammadmokhtari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
 </a>
 </p>
 
