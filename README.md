@@ -31,7 +31,6 @@ I'm Mohammad, a front-end web developer specializing in Angular, TypeScript, and
  <br>
  <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="36" height="36"/>
  <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" alt="cyprees" width="36" height="36"/>
- <svg width="40px" height="40px" role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="currentColor" aria-hidden="true" class="h-8 w-8"><title>Nx</title>
 </div>
 
 
