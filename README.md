@@ -30,7 +30,7 @@ I'm Mohammad, a front-end web developer specializing in Angular, TypeScript, and
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/>
  <br>
  <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="36" height="36"/>
- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsKQ7V32n674Gg7oInLiVmEsmM-obBT6lavg&s" alt="cyprees" width="36" height="36"/>
+ <img src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" alt="cyprees" width="36" height="36"/>
 </div>
 
 
