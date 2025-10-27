@@ -26,7 +26,7 @@ I'm Mohammad, a front-end web developer specializing in Angular, TypeScript, and
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"  />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6HZIzwwUFIFoQoamzUKQ348_7RifrDsA8pw&s" alt="nx" width="36" height="36"  />
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsrAmfJ-XXVE-NnVduwROO_b3xl4ApFCLdc7MPhzIUFk8IOHwLL0ZKTFl8us5u6WPCwLQ&usqp=CAU" alt="nx" width="36" height="36"  />
 <img src="https://nx.dev/favicon/apple-touch-icon.png" alt="nx" width="36" height="36"  />
 <img src="https://ionicacademy.com/wp-content/uploads/2018/07/ionic-light-logo-portrait.png" alt="angular" width="36" height="36"/>
  <br>
