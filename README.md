@@ -40,7 +40,7 @@ Software engineer with **6+ years** building scalable, high-performance applicat
 **AI & Agents**
 
 ![AI Agents](https://img.shields.io/badge/AI_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![AI Workflows](https://img.shields.io/badge/AI_Workflows-FF6B35?style=for-the-badge&logo=probot&logoColor=white)
 
 **Tools & Platforms**
 
