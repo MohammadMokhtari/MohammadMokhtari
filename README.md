@@ -1,72 +1,65 @@
-
-<!-- Intro -->
-
-<h1 align="center">Hi there, I'm Mohammad Mokhtari 👋</h1>
- <p> 🌱
-I'm Mohammad, a front-end web developer specializing in Angular, TypeScript, and JavaScript. I have experience building scalable, high-performance web applications, with a solid understanding of back-end development. I'm passionate about creating smooth user experiences, optimizing performance, and staying current with modern technologies.
- </p>
-
-<!-- Socials --> 
-
+<!-- Hero -->
 <div align="center">
-  
 
-<a href="https://discordapp.com/users/1208277983178133604" target="blank">
-<img src="https://static.vecteezy.com/system/resources/thumbnails/018/930/505/small/discord-logo-discord-icon-transparent-free-png.png" width="46" height="46"/>
-</a>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Mohammad+Mokhtari+%F0%9F%91%8B;Front-End+Engineer+%7C+Angular+%26+TypeScript;Building+scalable%2C+high-performance+web+apps)](https://git.io/typing-svg)
 
 </div>
 
-<!-- Tech Stack --> 
+---
 
-<p>
-<p align="Center"><strong>Professional skills</strong></p>
-</p>  
-<p align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"  />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="36" height="36"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsrAmfJ-XXVE-NnVduwROO_b3xl4ApFCLdc7MPhzIUFk8IOHwLL0ZKTFl8us5u6WPCwLQ&usqp=CAU" alt="nx" width="36" height="36"  />
-<img src="https://nx.dev/favicon/apple-touch-icon.png" alt="nx" width="36" height="36"  />
-<img src="https://ionicacademy.com/wp-content/uploads/2018/07/ionic-light-logo-portrait.png" alt="angular" width="36" height="36"/>
- <br>
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/>
- <img src="https://www.cypress.io/_astro/cypress-logo.D87396b0.svg" alt="cyprees" width="36" height="36"/>
- <img src="https://rxjs.dev/generated/images/marketing/home/Rx_Logo-512-512.png" alt="rxjs" width="36" height="36"/>
-</div>
+## About Me
 
+I'm a front-end engineer specializing in **Angular**, **TypeScript**, and **JavaScript**, with a strong focus on building scalable, high-performance web applications. I care deeply about clean architecture, reactive patterns with RxJS, and delivering smooth user experiences. I'm always exploring modern tooling and enjoy working at the intersection of solid engineering and great UX.
 
- </p>
+- 💡 Exploring new technologies and pushing the boundaries of web performance
+- 💬 Ask me about **Angular**, **TypeScript**, **RxJS**, or **clean architecture**
+- 👯 Open to collaborating on **front-end projects**
 
-<!-- Catto gifs -->
+---
 
-<ul dir="auto">
-<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">💡</g-emoji> I like to explore new technologies and develop software</li>
-<li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about: JavaScript ,TypeScript ,Angular ,clean-architecture </li>
-<li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on: Front-End projects
-</li>
-</ul>
+## Tech Stack
 
+**Languages**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Frameworks & Libraries**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+
+**Tools & Platforms**
+
+![Nx](https://img.shields.io/badge/Nx-143055?style=for-the-badge&logo=nx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <div align="center">
     <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" height="200"/>
 </div>
 
+---
 
+## GitHub Stats
 
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammadMokhtari&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMokhtari&layout=compact&theme=default&hide_border=true&langs_count=6" />
+</div>
 
+---
 
-##### Contact Me
-<p align="center">
-<a href="https://www.instagram.com/mohammadmokhtari8/">
-<img src="https://img.shields.io/badge/-@mohammadmokhtari8-E4405F?style=flat&logo=Instagram&logoColor=white"/>
-</a>
-<a href="mailto:dev.mohammadmokhtari@gmail.com"><img src="https://img.shields.io/badge/-dev.mohammadmokhtari@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/>
-</a>
-</p>
+## Connect With Me
 
+<div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-mokhtari-8a668122b/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mohammadmokhtari8/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev.mohammadmokhtari@gmail.com)
 
-
-
-
+</div>
