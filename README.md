@@ -9,11 +9,11 @@
 
 ## About Me
 
-I'm a front-end engineer specializing in **Angular**, **TypeScript**, and **JavaScript**, with a strong focus on building scalable, high-performance web applications. I care deeply about clean architecture, reactive patterns with RxJS, and delivering smooth user experiences. I'm always exploring modern tooling and enjoy working at the intersection of solid engineering and great UX.
+Angular engineer with **6+ years** building scalable, high-performance web applications — from real-time vehicle tracking platforms serving **500,000+ vehicles** to cross-platform mobile apps. Currently co-founding [Traxtex](https://github.com/MohammadMokhtari) in Toronto, where I lead product and engineering. I've worn the Tech Lead hat at Dolphin Connect (UAE), bridging business and engineering, managing RPC streams, and shipping features under real-world load.
 
-- 💡 Exploring new technologies and pushing the boundaries of web performance
-- 💬 Ask me about **Angular**, **TypeScript**, **RxJS**, or **clean architecture**
-- 👯 Open to collaborating on **front-end projects**
+- 🚀 Building **Traxtex** — an Nx Angular monorepo with Ionic mobile and OpenFGA fine-grained auth
+- 💬 Ask me about **Angular**, **RxJS**, **real-time systems**, or **connected car platforms**
+- 👯 Open to collaborating on **ambitious front-end or full-stack projects**
 
 ---
 
@@ -38,10 +38,6 @@ I'm a front-end engineer specializing in **Angular**, **TypeScript**, and **Java
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-<div align="center">
-    <img src="https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif" width="200" height="200"/>
-</div>
 
 ---
 
