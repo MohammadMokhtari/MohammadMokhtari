@@ -9,7 +9,7 @@
 
 ## About Me
 
-Software engineer with **6+ years** building scalable, high-performance applications across web and Android. I work across the full product stack — from multi-module Android architecture with Jetpack Compose to real-time web platforms handling **500,000+ concurrent data streams**. I've led engineering teams as Tech Lead, bridging business and engineering to ship reliable products under real-world load. Currently co-founding a product startup where I own both product vision and engineering execution.
+Software engineer with **6+ years** building scalable, high-performance applications across web and Android. I work across the full product stack — from multi-module Android architecture with Jetpack Compose to real-time web platforms handling **500,000+ concurrent data streams**. I've led engineering teams as Tech Lead, bridging business and engineering to ship reliable products under real-world load.
 
 - 🚀 Working on production-grade Android and web apps with clean architecture and real-time capabilities
 - 💬 Ask me about **Android**, **Angular**, **real-time systems**, or **AI agents**
