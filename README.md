@@ -1,7 +1,7 @@
 <!-- Hero -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Mohammad+Mokhtari+%F0%9F%91%8B;Software+Engineer+%7C+Tech+Lead+%7C+Co-Founder;Building+scalable%2C+high-performance+web+apps)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=3178C6&center=true&vCenter=true&random=false&width=600&lines=Hi%2C+I'm+Mohammad+Mokhtari+%F0%9F%91%8B;Software+Engineer+%7C+Tech+Lead;Building+scalable%2C+high-performance+apps)](https://git.io/typing-svg)
 
 </div>
 
@@ -9,11 +9,11 @@
 
 ## About Me
 
-Angular engineer with **6+ years** building scalable, high-performance web applications — from real-time tracking platforms serving **500,000+ vehicles** to cross-platform mobile apps. I've led front-end teams as Tech Lead, bridging business and engineering, managing RPC streams, and shipping features under real-world load. Currently focused on co-founding a product startup where I lead both product and engineering.
+Software engineer with **6+ years** building scalable, high-performance applications across web and Android. I work across the full product stack — from multi-module Android architecture with Jetpack Compose to real-time web platforms handling **500,000+ concurrent data streams**. I've led engineering teams as Tech Lead, bridging business and engineering to ship reliable products under real-world load. Currently co-founding a product startup where I own both product vision and engineering execution.
 
-- 🚀 Building an Nx Angular monorepo with Ionic mobile and OpenFGA fine-grained auth
-- 💬 Ask me about **Angular**, **RxJS**, **real-time systems**, or **AI agents**
-- 👯 Open to collaborating on **ambitious front-end or full-stack projects**
+- 🚀 Working on production-grade Android and web apps with clean architecture and real-time capabilities
+- 💬 Ask me about **Android**, **Angular**, **real-time systems**, or **AI agents**
+- 👯 Open to collaborating on **ambitious mobile or full-stack projects**
 
 ---
 
@@ -23,12 +23,14 @@ Angular engineer with **6+ years** building scalable, high-performance web appli
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Libraries**
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
