@@ -9,10 +9,10 @@
 
 ## About Me
 
-Angular engineer with **6+ years** building scalable, high-performance web applications — from real-time vehicle tracking platforms serving **500,000+ vehicles** to cross-platform mobile apps. Currently co-founding [Traxtex](https://github.com/MohammadMokhtari) in Toronto, where I lead product and engineering. I've worn the Tech Lead hat at Dolphin Connect (UAE), bridging business and engineering, managing RPC streams, and shipping features under real-world load.
+Angular engineer with **6+ years** building scalable, high-performance web applications — from real-time tracking platforms serving **500,000+ vehicles** to cross-platform mobile apps. I've led front-end teams as Tech Lead, bridging business and engineering, managing RPC streams, and shipping features under real-world load. Currently focused on co-founding a product startup where I lead both product and engineering.
 
-- 🚀 Building **Traxtex** — an Nx Angular monorepo with Ionic mobile and OpenFGA fine-grained auth
-- 💬 Ask me about **Angular**, **RxJS**, **real-time systems**, or **connected car platforms**
+- 🚀 Building an Nx Angular monorepo with Ionic mobile and OpenFGA fine-grained auth
+- 💬 Ask me about **Angular**, **RxJS**, **real-time systems**, or **AI agents**
 - 👯 Open to collaborating on **ambitious front-end or full-stack projects**
 
 ---
